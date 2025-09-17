@@ -1,0 +1,11 @@
+HOW TO USE:
+
+1. Create a text folder and images folder on this BadApple folder.
+
+2. Run Get_Frames_And_Resize.py to get frames from video into text. (Read the comments placed inside the code)
+
+3. Create your bot and add it to your server (Watch a youtube tutorial if you don't know how)
+
+4. Run Play_Bad_Apple_Bot (Read the comments placed inside on how to setup the code to the bot)
+
+5. Do /badapple in your server and enjoy
